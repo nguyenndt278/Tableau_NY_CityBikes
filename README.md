@@ -1,2 +1,2 @@
-## Tableau workbook:
-https://prod-useast-a.online.tableau.com/t/nguyennguyen/views/NY_Biker/BikerStory?:showAppBanner=false&:display_count=n&:showVizHome=n&:origin=viz_share_link
+## Tableau published at:
+https://nguyenndt278.github.io/Tableau_NY_CityBikes/
