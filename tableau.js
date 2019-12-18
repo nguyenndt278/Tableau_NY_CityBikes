@@ -12,3 +12,5 @@ function initializeViz() {
     };
     viz = new tableau.Viz(placeholderDiv, url, options);
   }
+
+  // window.onload= initializeViz();
